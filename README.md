@@ -1,6 +1,8 @@
 # Portfolio
 
-## [Resume](https://github.com/Brocoleta/CV/blob/master/Curriculum_Pablo_Brancoli.pdf)
+## [Resume Spanish](https://github.com/Brocoleta/CV/blob/master/Curriculum_Pablo_Brancoli.pdf)
+
+## [Resume English](https://github.com/Brocoleta/CV/blob/master/Curriculum_Pablo_Brancoli_Ingles.pdf)
 
 ## Data Science Apps
 
