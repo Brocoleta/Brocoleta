@@ -6,7 +6,7 @@
 
 ## Data Science Apps
 
-### [Soccer Legues Positions App](https://github.com/Brocoleta/soccer-leagues/tree/main)
+### [Soccer Leagues Positions App](https://github.com/Brocoleta/soccer-leagues/tree/main)
 
 I developed an application that updates the tables of the main European and Chilean soccer leagues, developed using principles of Data Engineering, using Apache Airflow and SnowFlake, to make an ETL that updates the information every Monday.
 
