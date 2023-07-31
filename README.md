@@ -14,6 +14,10 @@ I developed an application that updates the tables of the main European and Chil
 
 I developed an application that extracts statistics from different youtube channels at choice every day with ETLs, developed using main AWS services such as S3, Lamda, Athena, EventBridge
 
+### [Nearby Station App](https://github.com/Brocoleta/fuel-station-geloc)
+
+I developed an application with streamlit and docker, pre-processing a sata set of the gas stations in Colombia to search for the nearest gas station.
+
 ### [Messaging Weather Warning App](https://github.com/Brocoleta/forecast-weather)
 
 I developed an application using AWS EC2 that sends an SMS message to the cell phone when the temperature of the day is going to be less than 10 degrees and at what time.
