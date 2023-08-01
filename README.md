@@ -12,7 +12,7 @@ I developed an application that updates the tables of the main European and Chil
 
 ### [Youtube Channels Statistics App](https://github.com/Brocoleta/youtube-statistics)
 
-I developed an application that extracts statistics from different youtube channels at choice every day with ETLs, developed using main AWS services such as S3, Lamda, Athena, EventBridge
+I developed an application that extracts statistics from different youtube channels at choice every day with ETLs, developed using main AWS services such as S3, Lamda, Athena, EventBridge and deployed with Terraform
 
 ### [Nearby Station App](https://github.com/Brocoleta/fuel-station-geloc)
 
